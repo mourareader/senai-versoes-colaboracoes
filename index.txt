@@ -3,4 +3,14 @@
 <BODY>
 <H1> VERSIONAMENTO E GIT </H1>
 </BODY>
-</HTML>
+</HTML
+
+Comandos de versionamento:
+1. git status
+2. git add
+3. git commit
+4. git push
+5. git checkout
+6. git merge
+7. git pull
+8. git remote>
